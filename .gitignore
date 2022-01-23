@@ -1,5 +1,0 @@
-// Node modules folder
-/node_modules
-
-// Environmental variables
-.env
